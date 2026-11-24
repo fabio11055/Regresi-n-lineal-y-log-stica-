@@ -1,0 +1,6 @@
+{
+  "name": "Regresión Lineal y Logística: Guía Interactiva de Machine Learning",
+  "description": "Explicación interactiva, visual y clara de la regresión lineal y logística para usuarios finales con simuladores en tiempo real.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
